@@ -1,0 +1,11 @@
+EventID,DestinationID,EventName,EventDate,EventCategory
+201,1,Paris Art Expo,2025-05-10,Cultural
+202,2,Tokyo Tech Fair,2025-04-15,Tech
+203,3,NYC Food Fest,2025-06-01,Food
+204,4,London Music Festival,2025-07-20,Music
+205,5,Sydney Surf Competition,2025-08-15,Sports
+206,6,Rome Historical Parade,2025-09-10,Cultural
+207,7,Cape Town Wine Tasting,2025-10-05,Food
+208,8,Beijing Film Festival,2025-11-01,Entertainment
+209,9,Berlin Marathon,2025-05-25,Sports
+210,10,Rio Carnival,2025-02-25,Cultural
